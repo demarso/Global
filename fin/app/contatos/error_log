@@ -1,0 +1,6 @@
+[27-Aug-2018 14:43:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/cadglobal/public_html/fin/app/contatos/read.php on line 5
+[27-Aug-2018 14:44:07 UTC] PHP Fatal error:  Call to a member function query() on null in /home/cadglobal/public_html/fin/app/contatos/read.php on line 5
+[27-Aug-2018 14:44:31 UTC] PHP Fatal error:  Call to a member function query() on null in /home/cadglobal/public_html/fin/app/contatos/read.php on line 5
+[27-Aug-2018 14:44:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/cadglobal/public_html/fin/app/contatos/read.php on line 5
+[27-Aug-2018 14:52:14 UTC] PHP Fatal error:  Call to a member function query() on null in /home/cadglobal/public_html/fin/app/contatos/read.php on line 5
+[27-Aug-2018 15:20:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/cadglobal/public_html/fin/app/contatos/read.php on line 5

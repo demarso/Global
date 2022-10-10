@@ -1,0 +1,468 @@
+﻿@charset "UTF-8";
+html {
+    background: url(../imagens/bg01.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body{
+    
+}
+
+img#logo{
+    position: absolute;
+    left: 20px;
+    top: 65px;
+    width: 150px;
+}
+
+
+div#interface{
+	width: 1200px;
+    height: 500px;
+    top: 10px;
+	background-color: rgba(102, 153, 204,.6);
+	margin: 10px auto 10px auto;
+	box-shadow: 0px 0px 10px black;
+	padding: 10px 10px 10px 10px;
+    overflow:auto;
+}
+
+div#palco1{
+    width:570px;
+    height:570px;
+    float: left;
+    background-color: rgba(103, 154, 205,.6);
+    position:relative;
+    margin-left:0px;
+    padding-left:2px;
+    padding-top: 10px ridge #9C6;
+    border-top: 10px ridge #9C6;
+    border-right: 10px ridge #9C6;
+    border-left: 10px ridge #9C6;
+    border-bottom: 10px ridge #9C6;
+    top: 3px;
+    overflow:auto;
+}
+
+div#palco0{
+    width:570px;
+    height:570px;
+    float: left;
+    background-color: rgba(103, 154, 205,.6);
+    position:relative;
+    float: left;
+    margin-left:0px;
+    padding-left:2px;
+    padding-top: 10px ridge #9C6;
+    border-top: 10px ridge #9C6;
+    border-right: 10px ridge #9C6;
+    border-left: 10px ridge #9C6;
+    border-bottom: 10px ridge #9C6;
+    top: 3px;
+    overflow:auto;
+}
+
+div#palco3{
+    width:570px;
+    height:570px;
+    float: left;
+    background-color: rgba(103, 154, 205,.6);
+    position:relative;
+    margin-left:0px;
+    padding-left:2px;
+    padding-top: 10px ridge #39f;
+    border-top: 10px ridge #39f;
+    border-right: 10px ridge #39f;
+    border-left: 10px ridge #39f;
+    border-bottom: 10px ridge #39f;
+    top: 3px;
+    overflow:auto;
+}
+
+div#palco4{
+    width:570px;
+    height:570px;
+    float: left;
+    background-color: rgba(103, 154, 205,.6);
+    position:relative;
+    margin-left:0px;
+    padding-left:2px;
+    padding-top: 10px ridge #39f;
+    border-top: 10px ridge #39f;
+    border-right: 10px ridge #39f;
+    border-left: 10px ridge #39f;
+    border-bottom: 10px ridge #39f;
+    top: 3px;
+    overflow:auto;
+}
+
+div#palco5{
+    width:570px;
+    height:390px;
+    float: left;
+    background-color: rgba(103, 154, 205,.6);
+    position:relative;
+    margin-left:0px;
+    padding-left:2px;
+    padding-top: 10px ridge #39f;
+    border-top: 10px ridge #39f;
+    border-right: 10px ridge #39f;
+    border-left: 10px ridge #39f;
+    border-bottom: 10px ridge #39f;
+    top: 3px;
+    overflow:auto;
+}
+
+div#palco6{
+    width:570px;
+    height:390px;
+    float: left;
+    background-color: rgba(103, 154, 205,.6);
+    position:relative;
+    margin-left:0px;
+    padding-left:2px;
+    padding-top: 10px ridge #39f;
+    border-top: 10px ridge #39f;
+    border-right: 10px ridge #39f;
+    border-left: 10px ridge #39f;
+    border-bottom: 10px ridge #39f;
+    top: 3px;
+    overflow:auto;
+}
+
+div#interface img#admin{
+     position: relative;
+     left: 20px;
+     top: 40px;
+     width: 50px;
+ }
+
+div#interface img#edite{
+    position: relative;
+    left: 20px;
+    top: 40px;
+    width: 100px;
+}
+
+div#interface h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20pt;
+    color:#0000C0;
+}
+
+.right {
+     text-align: right;
+     float: right;
+ }
+
+.left {
+    text-align: left;
+    float: left;
+}
+
+div#usu{
+   float: right;
+   top: 20px;
+}
+
+
+div#logo2{
+    position: relative;
+    background: url("../imagens/FSPADRAO.JPG") no-repeat;
+    left: 50px;
+    top: -20px;
+    width: 700px;
+    height: 300px;
+}
+
+div#login{
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    width: 700px;
+    height: 300px;
+}
+
+div#prog h1{
+     font-family:Arial, Helvetica, sans-serif;
+     font-size:40pt;
+     color: #710909;
+ }
+
+div#prog h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20pt;
+    color:#0000C0;
+}
+
+div#prog h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:10pt;
+    color:#006600;
+}
+
+div#cont{
+    margin-left: 50px;
+}
+
+div#cont h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:40pt;
+    color: #710909;
+}
+
+div#cont h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30pt;
+    color: #0000C0;
+}
+
+div#cont h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-family:15pt;
+    color: #008200;
+}
+
+p{
+text-align:left;
+text-indent: 50px;
+}
+
+header#cabecalho{
+	border-bottom: 1px #606060 solid;
+	height: 70px;
+	background-color: rgba(102, 153, 204,.6);
+    margin: 10px auto 10px auto;
+    box-shadow: 0px 0px 10px black;
+    padding: 10px 10px 10px 10px;
+	
+}
+
+header#cabecalho img#icone{
+	position: relative;
+	left: 500px;
+	top: -150px;
+
+}
+
+header#cabecalho hgroup{
+    position:relative;
+    top: 0px;
+}
+
+header#cabecalho h1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20pt;
+	color:#009966;
+	margin-top: 22px;
+	text-shadow: 2px 2px 2px black;
+	margin-bottom: 0px;
+    margin-left: 200px;
+}
+
+header#cabecalho h2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15pt;
+	color:#888888;
+	text-shadow: 2px 2px 2px black;
+	margin-top: 0px;
+    margin-left: 250px;
+}
+
+footer#footer{
+    border-top: 1px #606060 solid;
+}
+/* Formata��o de imagens com legenda */
+ figure.foto-legenda{
+	 position:relative;
+     border: 8px solid white;
+	 box-shadow: 1px 1px 4px black;
+	 width: 50%;
+     height: 50%; 
+	 left: 200px;
+}
+
+figure.foto-legenda img{
+    width: 100%;
+    height: 100%;
+}
+
+figure.foto-legenda figcaption{
+    opacity: 0;
+    position:absolute;
+    top: 0px;
+    background-color: rgba(0,0,0,.4);
+    color: white;
+    width:100%;
+    height:100%;
+    padding:10px;
+    box-sizing: border-box;
+    transition: opacity 1s;
+}
+
+figure.foto-legenda:hover figcaption{
+    opacity: 1;
+}
+
+figure.foto2-legenda{
+    position:relative;
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+    width: 50%;
+
+}
+
+figure.foto2-legenda img{
+    width: 100%;
+    height: 100%;
+}
+
+figure.foto2-legenda figcaption{
+    opacity: 0;
+    position:absolute;
+    top: 0px;
+    background-color: rgba(0,0,0,.4);
+    color: white;
+    width:100%;
+    height:100%;
+    padding:10px;
+    box-sizing: border-box;
+    transition: opacity 1s;
+}
+
+figure.foto2-legenda:hover figcaption{
+    opacity: 1;
+}
+
+figure.foto3-legenda{
+    position:relative;
+    border: 8px solid white;
+    box-shadow: 1px 1px 4px black;
+    width: 40%;
+
+}
+
+figure.foto3-legenda img{
+    width: 100%;
+    height: 100%;
+}
+
+figure.foto3-legenda figcaption{
+    opacity: 0;
+    position:absolute;
+    top: 0px;
+    background-color: rgba(0,0,0,.4);
+    color: white;
+    width:100%;
+    height:100%;
+    padding:10px;
+    box-sizing: border-box;
+    transition: opacity 1s;
+}
+
+figure.foto3-legenda:hover figcaption{
+    opacity: 1;
+}
+
+/* Formata��o do Menu */
+nav#menu{
+	display: block;
+    width: 800px;
+	top:5px;
+}
+
+nav#menu ul{
+	list-style: none;
+	text-transform: uppercase;
+	position: relative;
+	top: -100px;
+	left: 350px;
+}
+
+nav#menu h1{
+	display:none;
+}
+
+nav#menu li{
+	display: inline-block;
+	background-color: #999999;
+	padding: 5px;
+	margin: 2px;
+	transition: background-color 1s;
+}
+
+nav#menu li:hover{
+	background-color: #606060;
+}
+
+nav#menu a{
+	color:#000000;
+	text-decoration:none;
+}
+
+nav#menu a:hover{
+	color:#FFFFFF;
+}
+
+nav#table table{
+    margin-left: 80px;
+}
+
+div#formu{
+    left: 200px;
+    width:90%;
+    height: 500px;
+    overflow: auto;
+}
+
+#contact {
+    width: 430px; margin: 60px auto; padding: 60px 30px;
+    background: #c9d0de; border: 1px solid #e1e1e1;
+    -moz-box-shadow: 0px 0px 8px #444;
+    -webkit-box-shadow: 0px 0px 8px #444;
+}
+h1 {
+    font-size: 35px; 
+    color: #445668; 
+    text-transform: uppercase;
+    text-shadow: 0px 1px 0px #f2f2f2;
+}
+
+h3 {
+    font-size: 12px; 
+    color: #445668; 
+    text-transform: uppercase;
+    text-shadow: 0px 1px 0px #f2f2f2;
+}
+
+#mapPlaceholder {
+    height: 400px;
+    width: 700px;
+}
+#tabela{
+    width:100%;
+    border:solid 1px;
+    text-align:left;
+    border-collapse:collapse; 
+}
+
+#tabela tbody tr{
+    border:solid 1px;
+    height:30px;
+    cursor:pointer;
+}
+
+#tabela thead{
+    background:beige;
+}
+
+#tabela thead th:nth-child(1){
+    width:100px;
+}
+
+#tabela input{
+    color:navy;
+    width:100%;
+}

@@ -1,0 +1,272 @@
+[10/08/2009 - 15:56:23]  189.25.89.35  /test/estoque/index.php
+[17/08/2009 - 07:48:48]  189.25.176.48  /test/estoque/index.php
+[17/08/2009 - 07:53:38]    /test/estoque/cadastroproduto.php
+[17/08/2009 - 07:53:42]  189.25.176.48  /test/estoque/index.php
+[17/08/2009 - 10:25:53]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 10:26:33]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 10:51:46]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 10:53:54]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 10:59:56]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 11:00:18]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 11:12:32]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 11:14:18]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 11:14:42]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 13:58:44]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 14:47:19]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 14:58:21]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 14:58:38]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 15:27:08]    /estoque/intranet.php
+[17/08/2009 - 15:32:51]    /estoque/cadastroproduto.php
+[17/08/2009 - 15:33:09]    /estoque/criatipo.php
+[17/08/2009 - 15:33:14]    /estoque/criafabricante.php
+[17/08/2009 - 15:33:19]    /estoque/noticia.php
+[17/08/2009 - 15:35:12]    /estoque/noticia.php
+[17/08/2009 - 15:35:20]    /estoque/noticia.php
+[17/08/2009 - 15:37:02]    /estoque/noticia.php
+[17/08/2009 - 15:37:07]    /estoque/noticia.php
+[17/08/2009 - 15:39:39]    /estoque/noticia.php
+[17/08/2009 - 15:45:14]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 15:45:23]    /estoque/intranet.php
+[17/08/2009 - 15:46:07]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 15:46:12]    /estoque/intranet.php
+[17/08/2009 - 15:50:35]    /estoque/intranet.php
+[17/08/2009 - 15:50:38]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 15:50:43]    /estoque/intranet.php
+[17/08/2009 - 15:52:55]    /estoque/intranet.php
+[17/08/2009 - 15:59:01]    /estoque/intranet.php
+[17/08/2009 - 15:59:51]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 15:59:56]    /estoque/intranet.php
+[17/08/2009 - 16:01:33]    /estoque/intranet.php
+[17/08/2009 - 16:01:42]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:01:49]    /estoque/criatipo.php
+[17/08/2009 - 16:02:01]    /estoque/criatipo.php
+[17/08/2009 - 16:02:13]    /estoque/criatipo.php
+[17/08/2009 - 16:02:22]    /estoque/criatipo.php
+[17/08/2009 - 16:04:56]    /estoque/criatipo.php
+[17/08/2009 - 16:05:15]    /estoque/criatipo.php
+[17/08/2009 - 16:05:16]    /estoque/criatipo.php
+[17/08/2009 - 16:05:27]    /estoque/criatipo.php
+[17/08/2009 - 16:05:33]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:06:09]    /estoque/noticia.php
+[17/08/2009 - 16:06:55]    /estoque/noticia.php
+[17/08/2009 - 16:07:02]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:07:11]    /estoque/noticia.php
+[17/08/2009 - 16:07:15]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:07:19]    /estoque/intranet.php
+[17/08/2009 - 16:09:20]    /estoque/noticia.php
+[17/08/2009 - 16:17:55]    /estoque/noticia.php
+[17/08/2009 - 16:18:01]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:18:08]    /estoque/intranet.php
+[17/08/2009 - 16:21:00]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:21:05]    /estoque/intranet.php
+[17/08/2009 - 16:21:12]    /estoque/listarprod.php
+[17/08/2009 - 16:21:15]    /estoque/intranet.php
+[17/08/2009 - 16:21:30]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:21:45]    /estoque/criafabricante.php
+[17/08/2009 - 16:21:52]    /estoque/criafabricante.php
+[17/08/2009 - 16:21:57]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:22:29]    /estoque/incluirprod.php
+[17/08/2009 - 16:22:32]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:22:38]    /estoque/incluirprod.php
+[17/08/2009 - 16:22:41]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:22:44]    /estoque/listarprod.php
+[17/08/2009 - 16:22:46]    /estoque/intranet.php
+[17/08/2009 - 16:22:50]    /estoque/listarprod.php
+[17/08/2009 - 16:22:53]    /estoque/intranet.php
+[17/08/2009 - 16:24:02]    /estoque/listarprod.php
+[17/08/2009 - 16:24:06]    /estoque/intranet.php
+[17/08/2009 - 16:26:44]    /estoque/listarprod.php
+[17/08/2009 - 16:26:47]    /estoque/intranet.php
+[17/08/2009 - 16:27:35]    /estoque/listarprod.php
+[17/08/2009 - 16:28:25]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:32:24]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:32:59]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:33:51]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:33:58]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:34:03]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:34:10]    /estoque/intranet.php
+[17/08/2009 - 16:34:15]    /estoque/listarprod.php
+[17/08/2009 - 16:34:23]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 16:36:01]    /estoque/intranet.php
+[17/08/2009 - 16:37:13]    /estoque/intranet.php
+[17/08/2009 - 16:38:49]    /estoque/intranet.php
+[17/08/2009 - 16:39:27]    /estoque/intranet.php
+[17/08/2009 - 16:40:19]    /estoque/intranet.php
+[17/08/2009 - 16:40:24]    /estoque/listarprod.php
+[17/08/2009 - 16:40:32]    /estoque/criatipo.php
+[17/08/2009 - 16:40:38]    /estoque/criafabricante.php
+[17/08/2009 - 16:40:41]    /estoque/noticia.php
+[17/08/2009 - 16:40:50]    /estoque/listarprod.php
+[17/08/2009 - 16:40:52]    /estoque/intranet.php
+[17/08/2009 - 16:40:55]    /estoque/listarprod.php
+[17/08/2009 - 16:40:57]    /estoque/intranet.php
+[17/08/2009 - 16:40:58]    /estoque/listarprod.php
+[17/08/2009 - 16:41:08]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:41:14]    /estoque/criafabricante.php
+[17/08/2009 - 16:41:35]    /estoque/criafabricante.php
+[17/08/2009 - 16:41:38]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:42:11]    /estoque/incluirprod.php
+[17/08/2009 - 16:42:13]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:42:16]    /estoque/listarprod.php
+[17/08/2009 - 16:42:44]    /estoque/listarprod.php
+[17/08/2009 - 16:43:06]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:43:31]    /estoque/incluirprod.php
+[17/08/2009 - 16:43:34]    /estoque/cadastroproduto.php
+[17/08/2009 - 16:43:38]    /estoque/listarprod.php
+[17/08/2009 - 16:44:01]    /estoque/listarprod.php
+[17/08/2009 - 16:44:16]    /estoque/listarprod.php
+[17/08/2009 - 16:44:20]    /estoque/listarprod.php
+[17/08/2009 - 16:44:24]    /estoque/listarprod.php
+[17/08/2009 - 16:44:31]    /estoque/intranet.php
+[17/08/2009 - 16:44:34]    /estoque/listarprod.php
+[17/08/2009 - 16:44:36]    /estoque/listarprod.php
+[17/08/2009 - 16:45:05]    /estoque/listarprod.php
+[17/08/2009 - 16:45:10]    /estoque/listarprod.php
+[17/08/2009 - 16:45:16]    /estoque/listarprod.php
+[17/08/2009 - 16:47:39]    /estoque/listarprod.php
+[17/08/2009 - 16:48:05]    /estoque/listarprod.php
+[17/08/2009 - 16:48:29]    /estoque/listarprod.php
+[17/08/2009 - 16:51:10]    /estoque/listarprod.php
+[17/08/2009 - 16:54:16]    /estoque/listarprod.php
+[17/08/2009 - 16:56:37]    /estoque/listarprod.php
+[17/08/2009 - 16:56:41]    /estoque/listarprod.php
+[17/08/2009 - 16:56:43]    /estoque/listarprod.php
+[17/08/2009 - 17:00:17]    /estoque/listarprod.php
+[17/08/2009 - 17:00:26]    /estoque/listarprod.php
+[17/08/2009 - 17:03:51]    /estoque/listarprod.php
+[17/08/2009 - 17:03:55]    /estoque/listarprod.php
+[17/08/2009 - 17:03:57]    /estoque/listarprod.php
+[17/08/2009 - 17:05:00]    /estoque/listarprod.php
+[17/08/2009 - 17:05:04]    /estoque/listarprod.php
+[17/08/2009 - 17:05:07]    /estoque/listarprod.php
+[17/08/2009 - 17:08:28]    /estoque/listarprod.php
+[17/08/2009 - 17:08:31]    /estoque/listarprod.php
+[17/08/2009 - 17:11:10]    /estoque/listarprod.php
+[17/08/2009 - 17:11:14]    /estoque/listarprod.php
+[17/08/2009 - 17:14:39]    /estoque/listarprod.php
+[17/08/2009 - 17:14:53]    /estoque/noticia.php
+[17/08/2009 - 17:15:16]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 17:15:24]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 17:15:29]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 17:15:37]    /estoque/intranet.php
+[17/08/2009 - 17:15:40]    /estoque/listarprod.php
+[17/08/2009 - 17:15:46]    /estoque/listarprod.php
+[17/08/2009 - 17:16:00]  189.25.61.119  /estoque/index.php
+[17/08/2009 - 20:04:33]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 20:04:45]    /estoque/intranet.php
+[17/08/2009 - 20:05:05]    /estoque/listarprod.php
+[17/08/2009 - 20:05:25]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:25:08]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:26:46]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:27:34]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:28:00]    /estoque/listarprod.php
+[17/08/2009 - 20:33:39]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:33:48]    /estoque/listarprod.php
+[17/08/2009 - 20:33:53]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:34:44]    /estoque/incluirprod.php
+[17/08/2009 - 20:34:46]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:34:49]    /estoque/listarprod.php
+[17/08/2009 - 20:35:09]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:35:58]    /estoque/incluirprod.php
+[17/08/2009 - 20:35:59]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:36:03]    /estoque/listarprod.php
+[17/08/2009 - 20:36:31]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:37:04]    /estoque/incluirprod.php
+[17/08/2009 - 20:37:05]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:37:09]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:37:39]    /estoque/incluirprod.php
+[17/08/2009 - 20:37:41]    /estoque/cadastroproduto.php
+[17/08/2009 - 20:37:44]    /estoque/listarprod.php
+[17/08/2009 - 20:42:27]    /estoque/listarprod.php
+[17/08/2009 - 20:43:03]    /estoque/listarprod.php
+[17/08/2009 - 20:47:34]    /estoque/listarprod.php
+[17/08/2009 - 20:47:39]    /estoque/listarprod.php
+[17/08/2009 - 20:47:41]    /estoque/listarprod.php
+[17/08/2009 - 20:49:02]    /estoque/listarprod.php
+[17/08/2009 - 20:49:06]    /estoque/listarprod.php
+[17/08/2009 - 20:49:09]    /estoque/listarprod.php
+[17/08/2009 - 20:53:00]    /estoque/listarprod.php
+[17/08/2009 - 20:53:03]    /estoque/intranet.php
+[17/08/2009 - 20:53:07]    /estoque/listarprod.php
+[17/08/2009 - 20:53:25]    /estoque/intranet.php
+[17/08/2009 - 20:56:31]    /estoque/listarprod.php
+[17/08/2009 - 20:56:37]    /estoque/intranet.php
+[17/08/2009 - 20:57:01]    /estoque/listarprod.php
+[17/08/2009 - 20:57:09]    /estoque/intranet.php
+[17/08/2009 - 20:57:26]    /estoque/listarprod.php
+[17/08/2009 - 20:57:31]    /estoque/intranet.php
+[17/08/2009 - 20:57:59]    /estoque/listarprod.php
+[17/08/2009 - 20:58:02]    /estoque/intranet.php
+[17/08/2009 - 20:59:46]    /estoque/listarprod.php
+[17/08/2009 - 20:59:49]    /estoque/intranet.php
+[17/08/2009 - 21:02:16]    /estoque/listarprod.php
+[17/08/2009 - 21:03:05]    /estoque/listarprod.php
+[17/08/2009 - 21:03:14]    /estoque/listarprod.php
+[17/08/2009 - 21:03:26]    /estoque/listarprod.php
+[17/08/2009 - 21:03:42]    /estoque/listarprod.php
+[17/08/2009 - 21:04:53]    /estoque/listarprod.php
+[17/08/2009 - 21:04:55]    /estoque/intranet.php
+[17/08/2009 - 21:04:59]    /estoque/listarprod.php
+[17/08/2009 - 21:05:01]    /estoque/intranet.php
+[17/08/2009 - 21:05:55]    /estoque/listarprod.php
+[17/08/2009 - 21:06:08]    /estoque/listarprod.php
+[17/08/2009 - 21:06:12]    /estoque/listarprod.php
+[17/08/2009 - 21:08:42]    /estoque/listarprod.php
+[17/08/2009 - 21:10:12]    /estoque/listarprod.php
+[17/08/2009 - 21:19:14]    /estoque/listarprod.php
+[17/08/2009 - 21:35:44]    /estoque/listarprod.php
+[17/08/2009 - 21:35:50]    /estoque/listarprod.php
+[17/08/2009 - 21:36:04]    /estoque/listarprod.php
+[17/08/2009 - 21:37:52]    /estoque/listarprod.php
+[17/08/2009 - 21:37:54]    /estoque/intranet.php
+[17/08/2009 - 21:38:25]    /estoque/listarprod.php
+[17/08/2009 - 21:38:27]    /estoque/listarprod.php
+[17/08/2009 - 21:38:32]    /estoque/listarprod.php
+[17/08/2009 - 21:38:37]    /estoque/listarprod.php
+[17/08/2009 - 21:40:05]    /estoque/listarprod.php
+[17/08/2009 - 21:40:08]    /estoque/intranet.php
+[17/08/2009 - 21:40:47]    /estoque/listarprod.php
+[17/08/2009 - 21:40:48]    /estoque/intranet.php
+[17/08/2009 - 21:42:06]    /estoque/listarprod.php
+[17/08/2009 - 21:42:09]    /estoque/listarprod.php
+[17/08/2009 - 21:42:16]    /estoque/listarprod.php
+[17/08/2009 - 21:42:20]    /estoque/listarprod.php
+[17/08/2009 - 21:43:19]    /estoque/listarprod.php
+[17/08/2009 - 21:43:27]    /estoque/listarprod.php
+[17/08/2009 - 21:43:46]    /estoque/intranet.php
+[17/08/2009 - 21:43:49]    /estoque/listarprod.php
+[17/08/2009 - 21:43:54]    /estoque/listarprod.php
+[17/08/2009 - 21:43:58]    /estoque/cadastroproduto.php
+[17/08/2009 - 21:44:41]    /estoque/incluirprod.php
+[17/08/2009 - 21:44:43]    /estoque/cadastroproduto.php
+[17/08/2009 - 21:44:45]    /estoque/listarprod.php
+[17/08/2009 - 21:45:09]    /estoque/noticia.php
+[17/08/2009 - 21:46:37]    /estoque/listarprod.php
+[17/08/2009 - 21:46:47]    /estoque/listarprod.php
+[17/08/2009 - 21:47:20]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:48:51]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:49:29]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:50:00]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:50:09]    /estoque/intranet.php
+[17/08/2009 - 21:50:11]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:50:17]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:55:34]    /estoque/intranet.php
+[17/08/2009 - 21:55:38]    /estoque/listarprod.php
+[17/08/2009 - 21:55:50]    /estoque/listarprod.php
+[17/08/2009 - 21:55:56]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:56:00]    /estoque/intranet.php
+[17/08/2009 - 21:56:07]    /estoque/listarprod.php
+[17/08/2009 - 21:56:11]  189.25.176.48  /estoque/index.php
+[17/08/2009 - 21:56:19]    /estoque/intranet.php
+[17/08/2009 - 21:56:24]    /estoque/listarprod.php
+[17/08/2009 - 21:59:44]    /estoque/listarprod.php
+[17/08/2009 - 22:00:30]    /estoque/listarprod.php
+[17/08/2009 - 22:00:33]    /estoque/listarprod.php
+[17/08/2009 - 22:01:44]    /estoque/listarprod.php
+[17/08/2009 - 22:04:13]    /estoque/listarprod.php
+[17/08/2009 - 22:04:34]    /estoque/listarprod.php
+[17/08/2009 - 22:05:03]    /estoque/listarprod.php
+[17/08/2009 - 22:05:37]    /estoque/listarprod.php
+[17/08/2009 - 22:05:57]    /estoque/listarprod.php
+[17/08/2009 - 22:06:02]    /estoque/listarprod.php
+[17/08/2009 - 22:06:34]    /estoque/listarprod.php

@@ -1,0 +1,274 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#f0f0f0;
+    font-family:Arial;
+     background-image: linear-gradient(to top,blue,white);
+}
+
+div#interface{
+    width: 1200px;
+    height: 600px;
+    top: 50px;
+    background-color: rgba(102, 153, 204,.6);
+    margin: 10px auto 10px auto;
+    box-shadow: 0px 0px 10px black;
+    padding: 10px 10px 10px 10px;
+    overflow:auto;
+}
+
+h1 {
+    font-size: 35px; color: #445668; text-transform: uppercase;
+    text-align: center; margin: 0 0 10px 0; text-shadow: 0px 1px 0px #f2f2f2;
+}
+
+div#interface h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20pt;
+    color:#0000C0;
+}
+
+.title{
+    position:absolute;
+    top:100px;
+    left:50%;
+    margin-left:-204px;
+    width:409px;
+    height:348px;
+    background:transparent url(title.png) no-repeat top left;
+}
+.info{
+    position:fixed;
+    bottom:0px;
+    left:0px;
+}
+.back{
+    display:block;
+    background:transparent url(back.png) no-repeat top left;
+    width:281px;
+    height:143px;
+}
+a.dry{
+    position:absolute;
+    bottom:10px;
+    right:10px;
+    color:#000;
+    font-weight:bold;
+    font-size:16px;
+}
+
+.navigation{
+    position:relative;
+    margin:0 auto;
+    width:915px;
+}
+ul.menu{
+    list-style:none;
+    font-family:"Verdana",sans-serif;
+    border-top:1px solid #bebebe;
+    margin:0px;
+    padding:0px;
+    float:left;
+}
+ul.menu li{
+    float:left;
+}
+ul.menu li a{
+    text-decoration:none;
+    background:#7E7E7E url(../images/bgMenu.png) repeat-x top left;
+    padding:15px 0px;
+    width:128px;
+    color:#333333;
+    float:left;
+    text-shadow: 0 1px 1px #fff;
+    text-align:center;
+    border-right:1px solid #a1a1a1;
+    border-left:1px solid #e8e8e8;
+    font-weight:bold;
+    font-size:13px;
+    -moz-box-shadow: 0 1px 3px #555;
+    -webkit-box-shadow: 0 1px 3px #555;
+}
+ul.menu li a.hover{
+    background-image:none;
+    color:#fff;
+    text-shadow: 0 -1px 1px #000;
+}
+ul.menu li a.first{
+    -moz-border-radius:0px 0px 0px 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    border-left:none;
+}
+ul.menu li a.last{
+    -moz-border-radius:0px 0px 10px 0px;
+    -webkit-border-bottom-right-radius: 10px;
+}
+ul.menu li span{
+    width:64px;
+    height:64px;
+    background-repeat:no-repeat;
+    background-color:transparent;
+    position:absolute;
+    z-index:-1;
+    top:80px;
+    cursor:pointer;
+}
+ul.menu li span.home{
+    background-image:url(../imagens/home.png);
+    left:33px;
+}
+ul.menu li span.cadastro{
+    background-image:url(../imagens/cadastro1.png);
+    left:163px;
+}
+ul.menu li span.entrada{
+    background-image:url(../imagens/entrada.png);
+    left:293px;
+}
+ul.menu li span.saida{
+    background-image:url(../imagens/saida.png);
+    left:423px;
+}
+ul.menu li span.relatorio{
+    background-image:url(../imagens/relatorio.png);
+    left:553px;
+}
+ul.menu li span.usuario{
+    background-image:url(../imagens/usuario.png);
+    left:683px;
+}
+ul.menu li span.exit{
+    background-image:url(../imagens/sair.png);
+    left:813px;
+}
+
+.canto {
+   position: fixed;
+   right: : 0pt;
+}
+
+div#login{
+    position: absolute;
+    left: 500px;
+    top: 250px;
+    width: 700px;
+    height: 300px;
+}
+
+div#caixa1{
+    position: relative;
+    margin: 0 auto;
+    width: 98%;
+    height: 550px;
+    border-top: 10px ridge #09F;
+    border-right: 10px ridge #09F;
+    border-left: 10px ridge #09F;
+    border-bottom: 10px ridge #09F;
+    overflow: auto;
+}
+div#caixa1a{
+    display: table;
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    border-top: 10px ridge #09F;
+    border-right: 10px ridge #09F;
+    border-left: 10px ridge #09F;
+    border-bottom: 10px ridge #09F;
+    overflow: auto;
+}
+
+div#caixa2{
+    float: left; 
+    width: 48%;
+    margin-left: 3px;
+    height: 482px;
+    border-top: 8px ridge #09A;
+    border-right: 8px ridge #09A;
+    border-left: 8px ridge #09A;
+    border-bottom: 8px ridge #09A;
+    overflow: auto;
+}
+
+div#caixa3{
+    width: 48%;
+    height: 482px;
+    border-top: 8px ridge #09A;
+    border-right: 8px ridge #09A;
+    border-left: 8px ridge #09A;
+    border-bottom: 8px ridge #09A;
+    overflow: auto;
+}
+
+div#caixa5{
+    width: 96%;
+    height: 160px;
+    border-top: 8px ridge #05D;
+    border-right: 8px ridge #05D;
+    border-left: 8px ridge #05D;
+    border-bottom: 8px ridge #05D;
+    overflow: auto;
+}
+#tabela{
+    width:100%;
+    border:solid 1px;
+    text-align:left;
+    border-collapse:collapse; 
+}
+
+#tabela tbody tr{
+    border:solid 1px;
+    height:30px;
+    cursor:pointer;
+}
+
+#tabela thead{
+    background:beige;
+}
+
+#tabela thead th:nth-child(1){
+    width:100px;
+}
+
+#tabela input{
+    color:navy;
+    width:100%;
+}
+
+.btn-custom {
+    padding: 1px 15px 3px 2px;
+    border-radius: 50px;
+}
+
+.btn-icon {
+    padding: 8px;
+    background: #ffffff;
+}
+
+@font-face{
+    font-family:'Glyphicons Halflings';
+    src:url(../fonts/glyphicons-halflings-regular.eot);
+    src:url(../fonts/glyphicons-halflings-regular.woff2);
+    src:url(../fonts/glyphicons-halflings-regular.woff);
+}
+
+#centro {
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-50px;
+    margin-left:-50px;
+}
+
+.fixarRodape {
+        bottom: 0;
+        position: fixed;
+        width: 90%;
+        text-align: center;
+    }
+
+#comboSelect{
+ width:auto;   
+}

@@ -1,0 +1,6 @@
+<script>
+    window.onunload = fechaEstaAtualizaAntiga;
+    function fechaEstaAtualizaAntiga() {
+        window.opener.location.reload();
+    }
+</script>

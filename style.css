@@ -1,0 +1,489 @@
+body {
+background-color:#FFFFFF;
+background-image:none;
+padding:0;
+margin:0;
+}
+
+#sitemain {
+position:relative;
+text-align: center;
+margin: auto;
+top: 0px;
+clear:both; 
+width:760px; 
+height:520px; 
+background-color:transparent; 
+font-size:10px;
+}
+
+#group3 {
+position:relative; 
+float:left; 
+clear:both; 
+width:760px; 
+height:110px; 
+background-color:transparent; 
+font-size:10px;
+}
+
+#spclin5 {
+position:relative; 
+float:left; 
+width:400px; 
+height:110px; 
+background-color:transparent; 
+font-size:0;
+}
+
+#logo {
+position:relative; 
+float:left; 
+width:427px; 
+height:110px; 
+background:#6496DC url("images/uds1.gif") repeat-x; 
+font-size:10px;
+}
+
+#logo img {
+position:relative; 
+top:13px; 
+border:0
+}
+
+#spclin2 {
+position:relative; 
+float:left; 
+width:174px; 
+height:110px; 
+background-color:transparent; 
+font-size:0;
+}
+
+#group {
+position:relative;
+text-align:left;  
+float:left; 
+clear:both; 
+width:760px; 
+height:500px; 
+background-color:transparent; 
+font-size:10px; 
+z-index:90;
+}
+
+#spclin3 {
+position:relative; 
+float:left; 
+width:160px; 
+height:454px; 
+background-color:transparent; 
+font-size:0;
+}
+
+#group2 {
+position:relative;
+text-align:left; 
+float:left; 
+width:760px; 
+height:454px; 
+background-color:transparent; 
+font-size:10px; 
+z-index:90;
+}
+
+#group6 {
+position:relative; 
+float:left; 
+clear:both; 
+width:760px; 
+height:294px; 
+background-color:transparent; 
+font-size:10px;
+}
+
+#menu2 {
+position:relative; 
+float:left; 
+clear:both; 
+width:760px; 
+height:30px; 
+background:#000080 url("images/uds1.gif") repeat-x; 
+font-family:verdana,sans-serif; 
+font-weight:bold; 
+font-size:10px; 
+z-index:90;
+}
+
+#menu2 ul {
+margin:0; 
+padding:0 0 0 5px; 
+font-size:12px;
+}
+
+#menu2 li {
+overflow:inherit; 
+list-style-type:none; 
+margin:0; 
+padding:0; 
+float:left;
+}
+ 
+#menu2 a {
+text-decoration:none; 
+margin:0; 
+padding:7px 10px 0; 
+display:block; 
+height:23px; 
+color:#F0F0F0; 
+float:left;
+}
+
+#menu2 a.first {
+margin:0; 
+padding:7px 10px 0; 
+}
+ 
+#menu2 a:hover {
+color:#00BFFF;
+}
+
+#menu2 .SubMenu {
+position:absolute; 
+display:none; 
+z-index:101; 
+font-size:12px;
+}
+
+#menu2 .SubMenu ul {
+float:left; 
+margin:0; 
+padding:0; 
+font-size:12px;
+}
+
+#menu2 .SubMenu li {
+list-style-type:none; 
+margin:0; 
+padding:0; 
+float:none;
+}
+
+#menu2 .SubMenu a {
+text-decoration:none; 
+display:block; 
+width:140px; 
+height:20px; 
+margin:0; 
+padding:5px 0px 0px 10px; 
+color:#FFFFFF; 
+background:#000080; 
+float:none;
+}
+
+#menu2 .SubMenu a:hover {
+color:#00BFFF;
+}
+#bbox2 {
+position:relative;
+text-align:left;  
+float:left; 
+clear:both; 
+width:760px; 
+height:404px; 
+background-color:transparent; 
+font-size:10px;
+}
+
+#bbox2 .lb {
+position:relative; 
+float:left; 
+background: url("images/dot1.gif") 0 100% repeat-x; 
+width:100%;
+height:404px;
+}
+
+#bbox2 .lr {
+position:relative; 
+float:left; 
+background: url("images/dot1.gif") 100% 0 repeat-y; 
+width:100%;
+height:404px;
+}
+
+#bbox2 .lt {
+position:relative; 
+float:left; 
+background: url("images/dot1.gif") 0 0 repeat-x; 
+width:100%;
+}
+
+#bbox2 .ll {
+position:relative; 
+float:left; 
+background: url("images/dot1.gif") 0 0 repeat-y; 
+width:100%;
+height:404px;
+}
+
+#bbox2 .tl {
+position:relative; 
+float:left; 
+background: url("images/tl1.gif") 0 0 no-repeat; 
+width:100%; 
+height:100%;
+}
+
+#bbox2 .tr {
+position:relative; 
+float:left; 
+background: url("images/tr1.gif") 100% 0 no-repeat; 
+width:100%; 
+height:100%;
+}
+
+#bbox2 .bl {
+position:relative; 
+float:left; 
+background: url("images/bl1.gif") 0 100% no-repeat; 
+width:100%;
+height:404px;
+}
+
+#bbox2 .br {
+position:relative; 
+float:left; 
+background: url("images/br1.gif") 100% 100% no-repeat; 
+width:100%;
+height:404px;
+}
+
+#bbox2 .ttl {
+position:relative; 
+height:20px; 
+font-weight:bold; 
+font-size:14px;
+background:transparent; 
+font-family:arial;
+}
+
+#bbox2 .ttl p {
+position:relative; 
+margin:0; 
+padding:0; 
+left:5px; 
+top:3px;
+}
+
+#bbox2 .ttl a {
+text-decoration:none; 
+color:#4B82D2;
+}
+
+#bbox2 .bod {
+position:relative;
+text-align:left;  
+color:#000000; 
+background:transparent; 
+height:404px; 
+font-family:arial; 
+font-size:14px; 
+margin:0; 
+padding:3px 5px 3px 10px;
+}
+
+#bbox2 .bod1 {
+position:relative;
+text-align:left;  
+color:#000000; 
+background:transparent; 
+height:384px; 
+font-family:arial; 
+font-size:12px; 
+margin:0; 
+padding:3px 5px 3px 10px;
+}
+
+#bbox2 .bod2 {
+position:relative;
+text-align:left;  
+color:#000000; 
+background:transparent; 
+height:800px; 
+font-family:arial; 
+font-size:14px; 
+margin:0; 
+padding:3px 5px 3px 10px;
+}
+
+#bbox2 .bod .bod2 a {
+text-decoration:underline;color:#5A96DC;
+}
+
+#bbox2 .bod .bod2 p {
+color:#000000;
+margin:0; 
+padding:0
+}
+
+#bbox2 .bod .bod2 img {
+vertical-align:middle;
+border:0;
+}
+
+#spclin4 {
+position:relative; 
+float:left; 
+clear:both; 
+width:426px; 
+height:20px; 
+background-color:transparent; 
+font-size:0;
+}
+
+#spclin {
+position:relative; 
+float:left; 
+width:174px; 
+height:454px; 
+background-color:transparent; 
+font-size:0;
+}
+
+
+#logo22 {
+position:relative; 
+float:left; 
+clear:both; 
+width:760px; 
+height:72px; 
+background:#6496DC url("images/uds1.gif") repeat-x; 
+font-size:10px;
+}
+
+#logo22 img {position:relative; top:13px; border:0}
+#group {position:relative; float:left; clear:both; width:760px; height:222px; background-color:transparent; font-size:10px; top:10px;}
+#shbox2 {position:relative; float:left; width:255px; height:222px; background:#FFFFFF url("images/uds1.gif") repeat-x; font-size:10px;}
+#shbox2 .lb {position:relative; float:left; background: url("images/dot1.gif") 0 100% repeat-x; width:100%;height:222px;}
+#shbox2 .lr {position:relative; float:left; background: url("images/dot1.gif") 100% 0 repeat-y; width:100%;height:222px;}
+#shbox2 .lt {position:relative; float:left; background: url("images/dot1.gif") 0 0 repeat-x; width:100%;}
+#shbox2 .ll {position:relative; float:left; background: url("images/dot1.gif") 0 0 repeat-y; width:100%;height:222px;}
+#shbox2 .ttl {position:relative; height:22px; font-<br />bold; font-size:14px;background:#000000; font-family:arial;}
+#shbox2 .ttl p {position:relative; margin:0; padding:0; left:5px; top:3px;}
+#shbox2 .ttl a {text-decoration:none; color:#DCDCF0;}
+#shbox2 .lnk {position:absolute;right:5px; top:3px; font-weight:normal; font-size:10px;}
+#shbox2 .lnk a {text-decoration:none; color:#F0F0FF;}
+#shbox2 .bod {position:inherit; color:#000000; background:transparent; height:200px; font-family:arial; font-size:12px; margin:0; padding:5px 5px 3px 6px;}
+#shbox2 .bod a {text-decoration:none;color:#000000;}
+#shbox2 .bod p {font-size:12px; color:#000000;margin:0; padding:0}
+#shbox2 .bod img {vertical-align:middle;border:0;}
+#imglbox {position:relative; float:left; width:255px; height:222px; background-color:#FFFFFF; font-size:10px;}
+#imglbox .lb {position:relative; float:left; background: url("images/dot2.gif") 0 100% repeat-x; width:100%;height:222px;}
+#imglbox .lr {position:relative; float:left; background: url("images/dot2.gif") 100% 0 repeat-y; width:100%;height:222px;}
+#imglbox .lt {position:relative; float:left; background: url("images/dot2.gif") 0 0 repeat-x; width:100%;}
+#imglbox .ll {position:relative; float:left; background: url("images/dot2.gif") 0 0 repeat-y; width:100%;height:222px;}
+#imglbox .ttl {position:relative; height:20px; font-weight:bold; font-size:12px;background:#FFFFFF; font-family:arial,sans-serif;}
+#imglbox .ttl p {position:relative; margin:0; padding:0; left:5px; top:3px;}
+#imglbox .ttl a {text-decoration:none; color:#FFFFFF;}
+#imglbox .lnk {position:absolute;right:5px; top:3px; font-weight:normal; font-size:10px;}
+#imglbox .lnk a {text-decoration:none; color:#FAFFFA;}
+#imglbox .bod {position:relative; color:#000000; background:transparent; weight:150px; height:202px; font-family:arial,sans-serif; font-size:10px; margin:0; padding:3px 5px;}
+#imglbox .bod a {text-decoration:none;color:#000000;}
+#imglbox .bod img {float:left;border:0;padding-right:10px;}
+#imglbox .bod p {margin:0; font-size:130%;  padding:0 10px 0 5px;}
+#imglbox .bod p img {vertical-align:middle; border:0; padding:5px 5px 0 0;}
+#shbox {position:relative; float:left; width:250px; height:222px; background:#FFFFFF url("images/uds1.gif") repeat-x; font-size:10px;}
+#shbox .lb {position:relative; float:left; background: url("images/dot1.gif") 0 100% repeat-x; width:100%;height:222px;}
+#shbox .lr {position:relative; float:left; background: url("images/dot1.gif") 100% 0 repeat-y; width:100%;height:222px;}
+#shbox .lt {position:relative; float:left; background: url("images/dot1.gif") 0 0 repeat-x; width:100%;}
+#shbox .ll {position:relative; float:left; background: url("images/dot1.gif") 0 0 repeat-y; width:100%;height:222px;}
+#shbox .ttl {position:relative; height:22px; font-weight:bold; font-size:14px;background:#000000; font-family:arial;}
+#shbox .ttl p {position:relative; margin:0; padding:0; left:5px; top:3px;}
+#shbox .ttl a {text-decoration:none; color:#DCDCF0;}
+#shbox .lnk {position:absolute;right:5px; top:3px; font-weight:normal; font-size:10px;}
+#shbox .lnk a {text-decoration:none; color:#F0F0FF;}
+#shbox .bod {position:relative; color:#000000; background:transparent; height:200px; font-family:arial; font-size:12px; margin:0; padding:5px 5px 3px 6px;}
+#shbox .bod a {text-decoration:none;color:#000000;}
+#shbox .bod p {font-size:12px; color:#000000;margin:0; padding:0}
+#shbox .bod img {vertical-align:middle;border:0;}
+
+#textbox {
+position:relative;
+text-align:left; 
+float:left; 
+clear:both; 
+width:740px; 
+height:300px; 
+background-color:transparent; 
+font-size:14px;
+overflow: auto;
+}
+
+#textbox1{
+position:relative;
+text-align:left; 
+float:left; 
+clear:both; 
+width:740px; 
+height:300px; 
+background-color:transparent; 
+font-size:14px;
+overflow: auto;
+}
+
+#textbox .boxsp {
+	position:relative; 
+	background:transparent; 
+	font-size:1px;
+	
+}
+
+#textbox .box {position:relative; font-size:14px; left:5px; top:15px;}
+#textbox h1 {font-family:tahoma,verdana,sans-serif; font-size:24px; font-weight:bold; color:#0080FF; margin:0;}
+#textbox h2 {position:relative;  top:5px; left:5px; font-family:arial; font-size:18px; font-weight:bold; color:#FF8000; margin:0;}
+#textbox p {position:relative; top:5px; left:5px; padding-right:45px; font-family:arial; font-size:12px; font-weight:normal; color:#000000; margin:0;}
+#btwp {position:relative; float:left; clear:both; width:760px; height:225px; background-color:#FFFFFF; font-size:10px;}
+#btwp .ttl {position:relative;  background:#0080FF; font-family:arial,helvetica,sans-serif; font-size:16px; font-weight:bold; text-align:left; color:#FFFFFF; margin:10px 5px; padding:1px 5px;}
+#btwp .leftw {position:relative; width:100px; font-family:arial,helvetica,sans-serif; font-size:14px; font-weight:bold; color:#1E90FF; margin:0 0 0 10px; padding:0}
+
+#btwp .rightw {
+position:relative;
+text-align:left;  
+font-family:arial,helvetica,sans-serif;
+margin:-15px 0 0; padding:0
+}
+
+#btwp .rightt {position:relative; font-size:12px; font-weight:bold; color:#008000; margin:0 0 0 120px; padding:0}
+#btwp .rightb {position:relative; font-size:12px; font-weight:normal; color:#000000; margin:0 0 0 120px; padding:0}
+#btwp .sep {font-size:0; margin:10px; border-bottom:1px dashed #808080;}
+#footer {position:relative; float:left; clear:both; width:760px; height:24px; background:#464646 url("images/umd2.gif") repeat-x; font-family:verdana,arial,sans-serif; font-weight:bold; font-size:10px; color:#6495ED;}
+
+#footer {
+position:relative; 
+float:left; 
+clear:both; 
+width:760px; 
+height:24px; 
+background:#464646 url("images/umd2.gif") repeat-x; 
+font-family:verdana,arial,sans-serif; 
+font-weight:bold; 
+font-size:10px; 
+color:#6495ED;
+}
+
+#footer .tag {
+position:relative; 
+text-align:center; 
+top:5px; 
+clear:both;
+}
+
+#footer .tag a:link, a:visited {
+text-decoration:none; 
+color:#C0C0C0;
+}
+
+#footer .tag a:hover {
+text-decoration:none;
+color:#FFFFFF;
+}

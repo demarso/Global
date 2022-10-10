@@ -1,0 +1,40 @@
+<?php
+include ('class.ezpdf.php');
+$pdf =& new Cezpdf();
+$pdf->selectFont('./fonts/Helvetica.afm');
+
+include "conexao.php";
+
+$sql = "SELECT numero,solicitante,ramal,descricao,solicitacao,executante,conclusao,observacao FROM solicitacao";
+
+if ($sql == ""){
+echo "Não existe esse solicitação de Manutenção";
+}
+else{
+$resultado = mysql_query($sql) or die (mysql_error());
+
+$cols = array('numero'=>"Número",'solicitante'=>'Solicitante','ramal'=>'Ramal','descricao'=>'Descrição','solicitacao'=>'Data','executante'=>'Executante','conclusao'=>'Conclusão','observacao'=>'Obs');
+
+$pdf->ezTable($cols);
+
+while ($linha = mysql_fetch_array($resultado))
+{
+$numero = $linha["numero"];
+$solicitante = $linha["solicitante"];
+$ramal = $linha["ramal"];
+$descricao = $linha["descricao"];
+$solicitacao = $linha["solicitacao"];
+$executante = $linha["executante"];
+$conclusao = $linha["conclusao"];
+$observacao = $linha["observacao"];
+
+$data = array(
+array('numero'=>$numero ,'Solicitante'=>$solicitante,'ramal'=>$ramal,'descricao'=>$descricao,'solicitacao'=>$solicitacao,'executante'=>$executante,'conclusao'=>$conclusao,'observacao'=>$observacao));
+
+
+$pdf->ezTable($data,'Relatório de Solicitações de Manutenção',
+array('xPos'=>20,'xOrientation'=>'right','width'=>500
+,'cols'=>array('numero'=>array('width'=>10),'solicitante'=>array('width'=>30))));
+}};
+$pdf->ezStream();
+?>
